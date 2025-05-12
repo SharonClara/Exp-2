@@ -2,7 +2,8 @@
 
 # AIM:
 
-To draw the UML diagram for ATM and Banking System.
+To draw the UML diagram for LIBRARY MANAGEMENT SYSTEM
+
 # SRS (Procedure):
 
 List of Programs:
